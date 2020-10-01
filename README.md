@@ -1,7 +1,5 @@
-# Work-Day-Scheduler
+# [Work Day Scheduler](https://clairevita.github.io/Scheduler/)
 This Work Day Scheduler achieves full functionality in a clean and efficient manner. It effictively uses the Moment.js API, and enables the user to track their daily schedule through an hourly, color-coded system.
-
-[Follow this link to see the live page!](https://clairevita.github.io/Scheduler/)
 
 ## Page Appearance
 ![Front Page Screenshot](https://i.imgur.com/uV3xpze.png)
